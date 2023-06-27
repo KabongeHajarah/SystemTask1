@@ -32,7 +32,6 @@ class ExistingSystem:
         else:
             print("Invalid feature number.")
 
-
 # Example usage:
 system = ExistingSystem()
 
